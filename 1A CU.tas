@@ -1,6 +1,6 @@
-RecordCount: 1490
+RecordCount: 1582
 
-# CeilingUltra 1.2.4
+# CeilingUltra 1.2.7
 
 Set CeilingUltraSettings.Instance.EnableAll true
 console load 1
@@ -91,7 +91,6 @@ console load 1
   10,R,D,X
    2,R,J
    3,U,K
-
   15,R,U,X
    5
   12,R,U,C
@@ -251,7 +250,7 @@ console load 1
    1,R,J,G
    7,R
    1,G
-  14,R,C
+  14,R,X
    1,J
   10,U,X
    8,J

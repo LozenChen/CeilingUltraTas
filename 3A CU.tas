@@ -1,6 +1,6 @@
-RecordCount: 6431
+RecordCount: 6651
 
-# CeilingUltra 1.2.5
+# CeilingUltra 1.3.2
 
 Set CeilingUltraSettings.Instance.EnableAll true
 console load 3
@@ -649,37 +649,39 @@ console load 3
    2,L,J
   18,L,U,X
   19,L,D,C
-   1,L,J
-  14,L,D,X
-   3,L,J
-   6,L,D,X
+   1,L
+   3,L,D,J
+   6,L
+   2,L,K
+   3,L
+   1,L,D
+   2,L,D,J
   40
 
 #lvl_10-z
-   7,L
-   2,J
-  10,R,D,X
-   2,J
-   1,L,J
-   8,L,U,K
-  14,R,U,X
-   1,U,J
-  14,R,U,X
+   2,D,J
+   3
+   1,J
+   1,R,K,G
+   6,K
+   2,L,K
+  15,U,X
+   7,R,U,C
+   7,R,J
+   1
+   9,U,X
   40
-
+   
 #lvl_10-y
-   6,R
-   1,U,J
+   8,J
    3,U,K
+   5,R,U,X
+   2,J
+   7,L,U,K
    1,U,J
-   5,L,U,X
-   1,R,J
-   3,R,U,K
-   6,L,U,J
-   1,U,K
   14,L,U,X
    1,J
-   5,U,X
+   6,U,X
   40
 
 #lvl_10-x (2)
@@ -1253,7 +1255,6 @@ endrepeat
 #  15,L,Z
 #   1
 
-
    3,L,J
    3,L
   14,L,U,X
@@ -1507,14 +1508,13 @@ endrepeat
    4,R,J
   15,R,Z
   12,R
-   4,Z
-   1,R,J
-   7,R
-   3,R,J
+   6,X
+   9,R,J
   10,R,U,X
    1,J
-   3,R,J
-  14,U,K
+   2,R,J
+  12,U,K
+   1,L
    3
   10,R,D,X
    1,L,D,J
@@ -1663,4 +1663,4 @@ endrepeat
    1,D,J
   18
 
-ChapterTime: 2:51.020(10060)
+ChapterTime: 2:50.901(10053)

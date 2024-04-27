@@ -1,4 +1,4 @@
-RecordCount: 6910
+RecordCount: 6992
 
 # CeilingUltra 1.3.2
 
@@ -1633,23 +1633,22 @@ endrepeat
   14,R,U,X
   10,R,J,G
    5,R
-  11,R,D,J
-  20,R,D
-   6,R
-   7,R,D
-  15,R,U,X
-   1,R,J,G
-  13,R
-  13,R,U,Z
-   2,R,J,G
-   2
+   7,R,D,J
+   4,R
+  14,R,D
   15,R,D,X
-   5,R,D
-   5,R,J
-   2,R,K,G
-   8,R
-  15,R,U,Z
-  10,R
+   7,R,D
+  13,R,U,X
+   3,R,J,G
+   9,R
+  12,R,U,Z
+   1,R,J,G
+   9,R,J
+  15,R,D,X
+   3,R
+   1,R,J
+  15,R,U,X
+  11,R
   40
 
 #lvl_roof07
@@ -1657,4 +1656,4 @@ endrepeat
    1,D,J
   18
 
-ChapterTime: 2:50.085(10005)
+ChapterTime: 2:49.847(9991)

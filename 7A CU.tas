@@ -1,0 +1,12 @@
+RecordCount: 0
+
+# CeilingUltra 1.2.7
+
+Set CeilingUltraSettings.Instance.EnableAll true
+console load 7
+   1
+
+# flag 17 - flag 15 can skip flag 16 from upside
+# flag 13 - flag 12 maybe can skip gate
+
+ChapterTime: 0:39.984(2352)

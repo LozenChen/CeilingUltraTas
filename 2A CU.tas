@@ -1,0 +1,242 @@
+RecordCount: 652
+
+# CeilingUltra 1.3.2
+
+Set CeilingUltraSettings.Instance.EnableAll true
+console load 2
+   1
+
+console, ghost_lock_comparer, Vanilla
+
+#Start
+ 190
+
+#lvl_start
+  13,Z
+   1,R,J
+   7,R
+  40
+
+#lvl_0 (1)
+   7,R,J
+  15,R,D,X
+   4,R,J
+  16,R,U,X
+   1,R,J
+   9,R,D,X
+   6,R,J,G
+   8,R,D,X
+   1,R,K,G
+   5,R,J,G
+  40
+
+#lvl_1 (1)
+   6,R,J
+   3,R
+   3
+   1,J
+   4
+  10,L,D,X
+   2,D,J
+   5,D,K
+  40
+
+#lvl_d0 (1)
+  16,L,D,X
+  
+  14,R,D,C
+   1,L,D,J
+   1,L,D,K
+  15,L,D,X
+   5,R,D
+   1,D,J
+   1,D,K
+  15,R,D,X
+   1,R
+  15,R,D,X
+  14,R
+
+   4,Z
+   1,R,J
+   7,R
+   3,R,J
+   4
+  14,R,D,X
+   1,L,J
+   3
+   9,L,D,X
+   1,R,J
+   7,R
+   1,R,J
+  40
+
+#lvl_d7
+  14,R,D,X
+   1,R,J
+   1,J
+   4,R,J
+   4,R
+  10,R,D,X
+   1,R,J,G
+   7,R,K,G
+   9,R
+  14,R,Z
+   3,J
+  11,R,D,X
+  40
+
+#lvl_d8
+   1
+   1,R,J
+   2,R
+  14,R,U,X
+   8,R,J
+  14,R,U,Z
+   2,R,J
+  14,R,U,Z
+   3,R
+   1,R,J
+  10,R,U,Z
+   1,J
+   5,U,K
+  13,R,U,X
+  40
+
+#lvl_d3
+   2,R,J
+  12,R,D,X
+   1,R,J
+   1
+   2,R
+  14,R,U,X
+   1,L,J
+# if we manip the subpixel really precisely, we can leaving Cutscene 1f earlier
+#Invoke Player.MoveH -0.03
+#   2,L
+#   2
+#   1,S
+#   1,D,J
+#  34
+#  28,U,X
+#   6,L
+#  13,L,D,X
+
+   4
+   1,L
+# wait one extra frame so CS02_Mirror.playerEndX = -8
+   1,S
+   1,D,J
+  34
+  29,U,Z
+   5,L
+  13,L,D,X
+   4,L,J
+   4,L,K,G
+  10,L,U,X
+   4,L,J,G
+
+   8,L
+   1,L,J
+   2,L
+  40
+
+#lvl_d2
+   2,L
+  14,L,D,X
+   1,L,D,J
+  10,L,D,X
+   3,L,J
+   3,L,D,K
+   5,L,J
+   1,L,K
+   8,L,U,Z
+   5,L,J,G
+  11,L,K,G
+   1,L,J
+  15,L,D,X
+   2,L
+   3,L,D,J
+   4,L
+   2,L,J
+  15,L,U,Z
+   3,L
+  40
+
+#lvl_d0 (2)
+   4,L
+   8,L,X
+  35
+   1,L,J
+   3
+   1,L,K
+   2,K
+  14,R,U,X
+   1,J
+
+  14,R,U,X
+   1,J
+  14,R,U,X
+   4,R,J
+   6,U,K
+  15,R,U,Z
+
+   7,U,X
+  40
+
+#lvl_1 (2)
+   4,R,J
+   4,J
+  11,L,U,K
+  10,L,Z
+   5,L,J
+  15,L,D,X
+   2,L,J
+   7,L,U,C
+  40
+
+#lvl_0 (2)
+   8
+   1,L,D,J
+  14,L,U,X
+  22
+   1,L,J
+   3
+   1,L,K
+  14,L,U,X
+   1,J
+   1,U,K
+  14,L,U,X
+   1,J
+   1,U,K
+  12,R,U,X
+  40
+
+#lvl_3x
+   9,R,J,G
+   2
+  19,R,U,X
+   4,R,J
+  21,R,D,X
+   4,R,J
+   1,R,K
+  25,R,U,X
+   3,R
+   1,K
+   2,U,J
+  11,R,U,X
+   4,R,J
+   3,L,D,K
+  48,L,X
+   1,L,J
+   8,L,U,X
+   5,R,J
+   6,U,K
+  40
+
+#lvl_3
+
+  99
+
+ 999
+
+ChapterTime:

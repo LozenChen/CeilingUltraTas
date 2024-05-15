@@ -1,0 +1,11 @@
+RecordCount: 0
+
+# CeilingUltra 1.3.2
+
+Set CeilingUltraSettings.Instance.EnableAll true
+console load 6
+   1
+
+# I guess 6A is faster than 6AC + 6B
+
+ChapterTime: 

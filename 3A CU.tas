@@ -1,4 +1,4 @@
-RecordCount: 7386
+RecordCount: 7748
 
 # CeilingUltra 1.3.2
 
@@ -1559,35 +1559,26 @@ endrepeat
    1,R,J,G
    2,R
    5,R,D,X
-  38,R
-  15,R,Z
-  25,R,D
-  16,R
-  28,R,X
-  12
-   1,R
-  15,R,D,X
-   6,R
+  53,R,D
+  17,R,Z
+   2,R,J,G
+   1,R,K,G
+  15,R,U,X
+  24,R
    1,D
-   1,R,D
-   1,D,J
-   3
-   1,J
-   6,Z
-  12,R,J
-   5,R
-   1,R,J,G
-   1,R
-   1
-   5,R
-  10,R
+   4,R,D
+   1,R,D,J
+   4,R,D
+  14,R,Z
+  21,R,J
+   1,R,K,G
+   4,R
+   2
+  11,R
   15,R,X
-  20,R
+  26,R
    1,R,D
-   3,R
-   3,R,D
-   1
-   1,D
+   2,D
    1,R
    8,L,D,X
    1,R,J
@@ -1656,4 +1647,4 @@ endrepeat
    1,D,J
   18
 
-ChapterTime: 2:49.456(9968)
+ChapterTime: 2:49.218(9954)

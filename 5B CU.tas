@@ -1,4 +1,4 @@
-RecordCount: 951
+RecordCount: 1254
 
 # CeilingUltra 1.3.3
 
@@ -10,7 +10,6 @@ console, ghost_lock_comparer, Vanilla
 
 #start
  190
- 
    7,R,Z
    1,R,J
    7,R
@@ -18,10 +17,8 @@ console, ghost_lock_comparer, Vanilla
   14,R,D,X
    1,R,J
    7,R
-
    1,R,J
   15,R,U,X
-
    1,R,D,J
    8,R,U,Z
   40
@@ -51,7 +48,6 @@ console, ghost_lock_comparer, Vanilla
    2
   62,R,X
   13,U,C
-
   21,R,X
   15,R,U,C
   39,R,D
@@ -71,10 +67,7 @@ console, ghost_lock_comparer, Vanilla
 #lvl_a-02
    5
    1,R,J
-  
    5,R,D,X
-  
-
    1,R,J
    4,R
    1,G
@@ -86,7 +79,6 @@ console, ghost_lock_comparer, Vanilla
   14,R,U,Z
    1,R,J
   16,R,U,Z
-***
    1,R,J
   14,R,U,X
    2,R,J
@@ -95,14 +87,64 @@ console, ghost_lock_comparer, Vanilla
    1
   12,R,U,Z
    1,R,J
-
- 
    2,U,K
+   8,R,U,X
+  40
+
+#lvl_b-00
+   2,L
+   2,R
+   1,R,J,G
+   4,R,K,G
+   2,R
+   6,R,Z
+   1,R,J
+   6,R
+   2,R,J
+  14,R,U,X
+   4,R,J,G
+   5,R
+  40
+
+#lvl_b-01
+   3,R
+  16,R,U,Z
+   1,R
+   3,R,D,K
+  15,R,D,X
+   2,R
+  15,R,U,Z
+   1,R,J
+   7,R
+  18,R,U,Z
+   5,R,D,J
+  16,R,U,Z
+   1
+   2,R,J
   15,R,U,X
+   9,R,J,G
+   5,R,D,X
+  40
 
-  99,R
-####
+#lvl_b-07
+   2
+   1,J
+   3,U,K
+   5,R,U,J
+  16,R,U,Z
+   1,U,J
+   6,R,U,K
+  15,R,U,X
+   8,R
+   1,U,J
+  40
 
+#lvl_b-03
+
+  99
+
+
+   
 
 
 

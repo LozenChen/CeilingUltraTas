@@ -1,8 +1,8 @@
-RecordCount: 1254
+RecordCount: 2328
 
-# CeilingUltra 1.3.3
+# CeilingUltra 1.3.4
 
-Set CeilingUltraSettings.Instance.EnableAll true
+Set CeilingUltraSettings.Instance.TasEnableAll true
 console hard 5
    1
 
@@ -135,20 +135,277 @@ console, ghost_lock_comparer, Vanilla
    1,U,J
    6,R,U,K
   15,R,U,X
-   8,R
-   1,U,J
+   9,R
   40
 
 #lvl_b-03
+   1,U,J
+  11,L,U,K
+   5,L,Z
+  11,L,J
+  22,L,X
+  11,L,U,C
+   1
+   3,L,J
+  14,L,U,X
+  11,L,D,J
+   3,D
+   1,D,J
+   5,L,D,K
+  15,D,X
+  15,L,C
+  14,U,X
+   1,J
+  14,L,U,X
+# fuck track spinner
+   9
+  24,L,C
+  15,L,D,X
+   3
+   1,L
+  10,L,J,G
+   1
+   5,L
+   2,L,J
+   1,L
+   1
+   1,L,K,G
+   1,K
+   6
+   1,L
+   8
+   1,D,J
+   1,L,D,K
+  10,L,D
+   6,L
+   4,Z
+   5,L,J
+   3,L,D,K
+   8,L,J
+   3,L,D,K
+  12,L,J
+  11,L,Z
+   4,R,J
+   7,R,U,X
+   6,R,J,G
+   9,R,D
+   8,D
+   5,L,U,X
+   4,R,J
+   2,J
+   1,U,K
+   6,U,J
+  13,U,X
+  40
+
+#lvl_b-08
+  11,L
+   5,L,U,X
+   1,L,J
+   3,U,K
+  43,L,D
+   8,L
+   5
+  33,L
+   2,D
+  11,L,D
+   1
+   1,L,D
+   1,L,J
+   1,R,K,G
+  10,L,K
+   2,K
+   1,L,K
+  21,L,U,X
+   1,L,J,G
+   1,J
+  10,L,K,G
+   5,L,Z
+   1,L,J
+   7,L
+   2,L,J
+  13,L,U,X
+   4,R,J
+  14,R,D,X
+   1,D,J
+   1,D,K
+  12,L,D,X
+   1,L,J
+   2,L
+  10,L,U,X
+   2,L,D,J
+   3,D,K
+   9,L,D,X
+   1,L,J
+   7,L
+   9,L,J
+  10,L,D,X
+   1,R,J
+   1,U,K
+   5,R,K
+   1,U,J
+   1,U,K
+   7,K
+  13,L,U,X
+   2,L,J
+ 
+
+  15,L,U,X
+   9,U,C
+  40
+
+   9,L,J
+   2,L
+  
+  15,L,U,Z
+   7,U,X
+#1788
+
+
+  20,R,C
+
+  10
+  15,R,U,Z
+
+   5,L,U,C
+   1,J
+   4,U,K
+  
+   1,U,J
+   2,U,K
+  
+   1,U,J
+   1
+
+   2,L,U,K
+   4
+   6,L,X
+   1,L,J,G
+  16,L
+
+
+
+   4,L,J
+   2,L,K,G
+   1,L
+  21,L,U,X
+   2,L,D,J
+  14,L,U,Z
+   1,J
+   3,U,K
+   1,U,J
+   3,U,K
+   1,U,J
+   1,U,K
+
+   5,R,K
+  14,R,U,X
+   1,J
+  11,R,U,X
+
+
+   7,R,J
+   5
+  15,R,U,Z
+
+   1,R
+  11,R,U,C
+  15,U,X
+
+   6,R,U,C
+   1,J
+   4,U,K
+   1,U,J
+   2,U,K
+   1,U,J
+  15,L,U,Z
+
+   8,L
+   1,R,J,G
+   2,L,J
+   2
+   5,L
+  11,L,U,X
+   1,L,J
+   3,L,D,K
+ 
+  15,L,D,X
+   2,L
+  14,L,U,Z
+
+
+   2,J
+
+   3,U,K
+  
+   1,U,J
+   1,U,K
+   2,R,K
+   1,U,J
+
+   3,U,K
+   1,U,J
+   3,U,K
+   1,U,J
+   2,U,K
+   2,U,J
+   1,U,K
+  15,R,X
+
+
+  15,R,U,C
+   2,R,D,J
+   1
+  10,R,U,Z
+#   1,J
+#   4,R
+
+#   4,Z
+#   1,R,J
+#   7,R
+#   3,R,J
+#  15,R,U,X
+#  99,R
+
+
+   1,J
+   4,U,K
+
+  10,L,U,X
+   6,L,J
+ 
+  10,L,U,Z
+   1,R,J,G
+   4,L
+  
+  10,L,D,X
+   1,R,J
+   4,R
+   8,R,U,X
+   1,R,J,G
+   1,R,K,G
+   5,R
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   3,R,J
+  10,R,D,X
+   6,L,J
+ 
+   8,L,D,X
+  
+   2,L,J
+   1,U,K
+   4,U,J
+  16,L,U,X
+  10,L,D,J
+   1,S
+   1,D,J
+  18
+
+#lvl_c-00
+ 206
 
   99
-
-
-   
-
-
-
-
-
 
 ChapterTime:

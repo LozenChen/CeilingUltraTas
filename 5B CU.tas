@@ -1,4 +1,4 @@
-RecordCount: 5062
+RecordCount: 5141
 
 # CeilingUltra 1.3.4
 
@@ -7,6 +7,7 @@ console hard 5
    1
 
 console, ghost_lock_comparer, SuperDashing
+console, ghost_set_name, CeilingUltra
 
 #start
  190
@@ -495,15 +496,17 @@ console, ghost_lock_comparer, SuperDashing
   40
 
 #lvl_c-04
-   2
+   4,R
+   1,R,D
+   4,R,D
+   1,R,D,J
    2,R
-   7,R,J
-   9,R,K,G
-  15,R,D,X
-   6,R,J
-   6,R
-   5
-  15,U,X
+   1,R,K
+  15,R,U,Z
+  10,R
+   1,R,J
+   1,R
+  16,R,U,X
    5,L,D,C
    1,R,J
   11,R,U,K
@@ -730,8 +733,4 @@ endrepeat
    1,L,J
   53,L,D,K
 
-ChapterTime: 1:22.501(4853)
-
- 200
-   1,O
- 195
+ChapterTime: 1:22.314(4842)

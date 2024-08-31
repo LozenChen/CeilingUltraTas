@@ -1,4 +1,4 @@
-RecordCount: 5028
+RecordCount: 5062
 
 # CeilingUltra 1.3.4
 
@@ -6,7 +6,7 @@ Set CeilingUltraSettings.Instance.TasEnableAll true
 console hard 5
    1
 
-console, ghost_lock_comparer, Vanilla
+console, ghost_lock_comparer, SuperDashing
 
 #start
  190
@@ -679,8 +679,7 @@ console, ghost_lock_comparer, Vanilla
    1,R
    2,J
    5,R,X
-  25,R,J,G
-   4,R,J,G
+  29,R,J,G
    1,R
   10,R,U,X
    1,R,J
@@ -699,17 +698,15 @@ console, ghost_lock_comparer, Vanilla
    5,R,G
    7,R,D,K,G
    1,D
-   3,R,D
-repeat 3
-   4,R,J
-  16,R,U,X
+  15,R,U,Z
+ repeat 3
    1,R,J
   17,R,D,X
-endrepeat
    4,R,J
   16,R,U,X
-   1,R,D,J
-  12,R,D,X
+endrepeat
+   3,R,D,K
+   9,R,D,X
   13,R,G
   40
 
@@ -723,16 +720,17 @@ endrepeat
    5,G
    1,R
    8,R,U,X
-  16
+  17
    1,J
    1,U,K
-   8,U,J
-  38,L,U,X
-  28,C
+   1,U,J
+   6,U,K
+  35,L,U,X
+  26,C
    1,L,J
-  48,L,D,K
+  53,L,D,K
 
-ChapterTime: 1:22.654(4862)
+ChapterTime: 1:22.501(4853)
 
  200
    1,O

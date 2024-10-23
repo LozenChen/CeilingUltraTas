@@ -1,13 +1,10 @@
-RecordCount: 5141
+RecordCount: 5573
 
 # CeilingUltra 1.3.4
 
 Set CeilingUltraSettings.Instance.TasEnableAll true
 console hard 5
    1
-
-console, ghost_lock_comparer, SuperDashing
-console, ghost_set_name, CeilingUltra
 
 #start
  190
@@ -185,6 +182,8 @@ console, ghost_set_name, CeilingUltra
    8,L,J
    3,L,D,K
   12,L,J
+  
+
   11,L,Z
    4,R,J
    7,R,U,X
@@ -524,6 +523,7 @@ console, ghost_set_name, CeilingUltra
    6,R,J,G
    9,R,G
    1,R,J,G
+
   18,R,G
    3,R,D,G
    1,R,G
@@ -576,8 +576,10 @@ console, ghost_set_name, CeilingUltra
   12,R,D,K
   15,L,D,X
    1,R,J
+# can be faster here? but bad resync
   10,R,D,X
   13,R,G
+# can't build enough speed to skip next room (can get like 13k speed)
    1,R,J,G
    3,R,G
   40
@@ -729,7 +731,7 @@ endrepeat
    1,U,J
    6,U,K
   35,L,U,X
-  26,C
+  26,L,U,C
    1,L,J
   53,L,D,K
 

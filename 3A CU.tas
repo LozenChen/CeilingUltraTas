@@ -126,7 +126,7 @@ console load 3
    7,R,U,C
   40
 
-#lvl_02-a (1)
+#lvl_02-a (0)
    3,R
    3,R,J
    1,U,K
@@ -173,7 +173,7 @@ console load 3
    9,L,D,X
   40
 
-#lvl_02-a (2)
+#lvl_02-a (1)
    2,R,D,J
    6,R
   11,L,D,X
@@ -262,7 +262,7 @@ console load 3
    3,R,J,G
   40
 
-#lvl_07-a (1)
+#lvl_07-a (0)
    1,R,J
   13,R,U,X
    1,J
@@ -270,7 +270,7 @@ console load 3
   14,U,X
   40
 
-#lvl_07-b (1)
+#lvl_07-b (0)
   11,L,J
    2,L
    5,L,Z
@@ -382,7 +382,7 @@ console load 3
    8,L,D,X
   40
 
-#lvl_07-b (2)
+#lvl_07-b (1)
    6,L,D,X
    1,L,J
   11,L,D,X
@@ -399,7 +399,7 @@ console load 3
    2,L,D,K
   40
 
-#lvl_07-a (2)
+#lvl_07-a (1)
    1,D
 # delay one frame waiting for dust bunny
    4,L,D
@@ -568,7 +568,7 @@ console load 3
   11,R,D,X
   40
 
-#lvl_10-x (1)
+#lvl_10-x (0)
    3,D
    1,G
    5,R,Z
@@ -691,7 +691,7 @@ console load 3
    6,U,X
   40
 
-#lvl_10-x (2)
+#lvl_10-x (1)
    9,R,U,K
    1
    1,U,J

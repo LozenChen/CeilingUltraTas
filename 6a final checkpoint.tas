@@ -1,0 +1,124 @@
+RecordCount: 245
+
+
+Set CeilingUltraSettings.Instance.TasEnableAll true
+
+console load 6 24296 3584
+   1
+
+#Start
+  36
+   4,R,Z
+   1,R,J
+   7,R
+   4,R,J
+  16,R,U,X
+   8,R,D,J
+   6,R,K
+   2,R,J,G
+   3,R
+  15,R,U,Z
+   1,R
+   2,R
+   1,R,D,J
+   2,J
+   1,J
+  15,R,U,Z
+  13,R
+   7,R,U,Z
+   1,S
+   1,D,J
+
+  34,R
+
+   4,R
+   1,K
+   3,L,J,G
+   6,L,U,X
+   1,U,J
+   4,U,K
+  40
+   8,L,J
+   3,L,K,G
+  11,L,U,X
+  11,L,K,G
+   1,L
+  10,L,X
+  14,L,J
+  14,U,C
+   4,J
+   1,L,J
+   1,J
+   5,R,U,X
+   1,J
+   1,U,K
+  10,U,J
+  10,R,C
+   6,R,J
+   1,J
+   1,R,J
+   1,J
+  15,U,C
+   5,L,U,X
+   1,L,J
+   1,U,K
+   8,U,J
+  14,L,U,X
+
+   1,R,U,J
+   6,U,X
+
+  40
+   9,R,J
+   2,L,J
+   4,L,Z
+   1,R,J
+   6
+   1,R
+   5,R,J
+  15,R,U,X
+  10,R,U,C
+   1,L,J
+   1,U,K
+   2,L,U,K
+  15,L,U,C
+  15,L,U,Z
+   3,L
+   1,U,J
+   2,R,U,K
+   1,R,U
+  15,R,U,X
+  15,R,U,C
+   1,R
+   1,U,J
+   1,U,J
+  15,L,U,C
+  15,L,U,Z
+   1,U,J
+   1,U,K
+  15,L,U,C
+  15,L,U,X
+   1,U,J
+   1,U,K
+   1,R,K
+  15,R,U,X
+  15,L,U,C
+   1,U,J
+   5,U,K
+   1,U,J
+  15,R,U,C
+  22,R,U,X
+   1,U,J
+   1,U,K
+   1,U,J
+   4,L,J
+  15,L,U,X
+   1,U,J
+   1,U,K
+   9,U,X
+
+  40
+  10,J
+   1,S
+   1,D,J
+  34

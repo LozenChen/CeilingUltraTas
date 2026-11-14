@@ -134,7 +134,7 @@ console load 2
    3,L
   40
 
-#lvl_d0 (1)
+#lvl_d2
   14,L,D,X
    3,D,J
   10,L,D,X
@@ -155,7 +155,7 @@ console load 2
    3,L
   40
 
-#lvl_d0 (2)
+#lvl_d0 (1)
    4,L
    8,L,X
   35
@@ -734,3 +734,4 @@ endrepeat
   18
 
 ChapterTime: 1:15.667(4451)
+RealTime: 1:29.516(5371)
